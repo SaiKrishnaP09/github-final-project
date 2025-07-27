@@ -6,3 +6,6 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+
+**This is project is for GitHub Certifaction by IBM**
